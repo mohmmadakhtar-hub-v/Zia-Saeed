@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working on Flutter Mobile App Development.<br>Looking for help with Devops and Cloud Computing. <br>At present, learning Devops and Cloud Computing.<br>Ping me About Flutter, Python, SQL, Devops and Cloud Computing.<br>
+Currently Working as Devops&Cloud.<br>Looking to connect with peaple of Devops and Cloud Computing. <br>At present, Improving myself on Devops & Cloud<br>Ping me About Devops, Cloud Computino, CICD.<br>
 
 
 ## 🌐 Socials:
