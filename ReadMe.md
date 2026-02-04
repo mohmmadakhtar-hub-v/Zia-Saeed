@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working as Devops&Cloud.<br>Looking to connect with peaple of Devops and Cloud Computing. <br>At present, Improving myself on Devops & Cloud<br>Ping me About Devops, Cloud Computing and CICD.<br>
+Devops&Cloud.<br>Looking to connect with peaple of Devops and Cloud Computing. <br>At present Working as a DevOps Engineer in 7KingsCode LLC<br>Ping me About Devops, Cloud Computing and CICD.<br>
 
 
 ## 🌐 Socials:
