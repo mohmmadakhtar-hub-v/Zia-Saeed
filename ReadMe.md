@@ -1,6 +1,5 @@
 # 💫 About Me:
-Devops&Cloud.<br>Looking to connect with peaple of Devops and Cloud Computing. <br>At present Working as a DevOps Engineer in 7KingsCode LLC<br>Ping me About Devops, Cloud Computing and CICD.<br>
-
+I build secure, scalable, and resilient cloud-native systems on AWS, specializing in Kubernetes (EKS/ECS), CI/CD pipelines (Jenkins, ArgoCD, GitOps), and infrastructure as code (Terraform, Ansible). Experienced in deploying and managing full-stack applications (Django, React, Next.js) with observability (Prometheus + Grafana), security scanning (Trivy, SonarQube), and zero-downtime migrations.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Zia-Saeed) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/zia.saeed.121) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/Zia__Saeed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zia-saeed-824680256/) 
