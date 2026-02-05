@@ -78,7 +78,7 @@ Successfully deployed and managing multiple production applications:
 - [Medtekservices](https://medtekservices.com)
 - [Samasara](https://samasara.com)
 - [7kp.ae](https://7kp.ae)
-- [Biogenlab](https://biogenlab.com)
+- [NexeraBio](https://nexerabio.com)
 - And more with **zero-downtime deployments**
 
 ### ⚙️ Infrastructure Projects
