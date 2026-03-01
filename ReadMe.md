@@ -3,7 +3,7 @@ I'm a **DevOps Engineer** based in **Lahore, Pakistan**, passionate about buildi
 
 Experienced in deploying and managing full-stack applications (Django, React, Next.js) with **observability (Prometheus + Grafana, Dozzle)**, **security scanning (Trivy, SonarQube)**, and **zero-downtime migrations**.
 
-### 🚀 Currently @ 7 Kings Code
+### 🚀 Currently @ Inovaqo
 - 🛡️ Protecting and recovering production systems from vulnerabilities
 - ⚙️ Building and maintaining CI/CD pipelines achieving **99.9% uptime**
 - 📊 Implementing comprehensive monitoring with Prometheus, Grafana, and Kuma
