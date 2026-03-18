@@ -4,12 +4,6 @@ I'm a **DevOps Engineer** based in **Lahore, Pakistan**, passionate about buildi
 Experienced in deploying and managing full-stack applications (Django, React, Next.js) with **observability (Prometheus + Grafana, Dozzle)**, **security scanning (Trivy, SonarQube)**, and **zero-downtime migrations**.
 
 ### 🚀 Currently @ Inovaqo
-- 🛡️ Protecting and recovering production systems from vulnerabilities
-- ⚙️ Building and maintaining CI/CD pipelines achieving **99.9% uptime**
-- 📊 Implementing comprehensive monitoring with Prometheus, Grafana, and Kuma
-- 🔒 Integrating security scanning with SonarQube and Trivy
-- ☁️ Designing AWS infrastructure with Kubernetes, ECS, and serverless technologies
-
 ### 💡 Philosophy
 > "Good DevOps isn't just about automation—it's about empowering teams, reducing friction, and building systems that are resilient enough to handle the unexpected."
 
