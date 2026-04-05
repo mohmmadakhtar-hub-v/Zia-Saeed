@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ```
@@ -13,9 +12,8 @@
 ### ☁️ Cloud & DevOps Engineer · Infrastructure as Code · Automation Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zia-saeed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zia.aseh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zia-Saeed)
 
 </div>
 
@@ -137,11 +135,20 @@ fun_fact: "I once recovered production servers from a live vulnerability attack 
 
 <div align="center">
 
-![Zia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zia-Saeed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Zia-Saeed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true)
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zia-Saeed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zia-Saeed&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
@@ -165,10 +172,6 @@ I'm open to collaborating on **DevOps**, **Cloud Infrastructure**, and **Automat
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zia-saeed)
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zia.aseh@gmail.com)
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=Zia-Saeed&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </div>
